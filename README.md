@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @durgesh0072
+- 👋 Hi, I’m @ Durgesh Ahire
 - 👀 I’m interested in Data Science, Machine Learning and Artificial Intellegence
 - 🌱 I’m currently mastering Python, Tableau, R, MySQL, Azure, Apache, Sapark, Hadoop, SAS, Artificial intellegence and Deep learning
 - 💞️ I’m looking to collaborate on all topics related to Data Science, Machine Learning and Artificial Intellegence.
